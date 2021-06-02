@@ -144,7 +144,9 @@ textarea {
   cursor: pointer; }
 
 .colorContacto {
-  background-color: #d6d1d3; }
+   
+  background-image: url(imagenes/fondo.jpg) ;
+    }
 
 #notaContacto {
   font-weight: bold;
