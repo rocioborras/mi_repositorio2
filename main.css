@@ -1,5 +1,20 @@
 @charset "UTF-8";
 
+
+.area {
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+    height: 100px;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    -webkit-transition-duration: 700ms;
+    transition-duration: 700ms;
+}
+
+
+
 .nav-item {
   padding: 1px 7px 2px 6px;
   color: black;
